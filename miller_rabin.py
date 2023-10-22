@@ -1,4 +1,4 @@
-import random, modular_arithmetic
+import random
 
 # hyperparameter
 k = 120
